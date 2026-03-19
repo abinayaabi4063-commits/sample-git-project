@@ -8,3 +8,4 @@ welcome to credo sustemz
 - ux
 
   
+data analyst
